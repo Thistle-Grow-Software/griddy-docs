@@ -32,6 +32,7 @@ There are no tests, linters, or formatters configured for this repo.
 | griddy-sdk-python | Thistle-Grow-Software/griddy-sdk-python | master | docs/* |
 | fbcm | Thistle-Grow-Software/fbcm | master | docs/* |
 | griddy-archive-manager | Thistle-Grow-Software/griddy-archive-manager | main | docs/* |
+| griddy-web-portal | Thistle-Grow-Software/griddy-web-portal | main | docs/* |
 
 To change which docs are included or update branch targets, edit the `plugins.multirepo.repos` section in `mkdocs.yml`.
 
