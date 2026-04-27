@@ -34,4 +34,14 @@ for working with NFL and American football data.
 
     [:octicons-arrow-right-24: Go to docs](griddy-archive-manager/index.md)
 
+-   **Griddy Web Portal**
+
+    ---
+
+    The first consumer-facing client — a React web portal for authenticated coaches,
+    scouts, and media to browse stats and watch game film. Currently architecture
+    decisions only; application code lands in subsequent stories.
+
+    [:octicons-arrow-right-24: Go to docs](griddy-web-portal/index.md)
+
 </div>

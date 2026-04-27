@@ -50,6 +50,8 @@ plugins:
           import_url: 'https://github.com/Thistle-Grow-Software/fbcm?branch=master&docs_dir=docs/*'
         - section: griddy-archive-manager
           import_url: 'https://github.com/Thistle-Grow-Software/griddy-archive-manager?branch=main&docs_dir=docs/*'
+        - section: griddy-web-portal
+          import_url: 'https://github.com/Thistle-Grow-Software/griddy-web-portal?branch=main&docs_dir=docs/*'
 
 markdown_extensions:
   - abbr
